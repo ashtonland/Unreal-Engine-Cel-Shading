@@ -2,7 +2,7 @@
 <h1 align="center">🐶 Unreal Engine Cel Shading 🐶</h1>
 <p align="center">This is a version of Unreal Engine 5.0 with a custom cel and outline shader built into the rendering engine. Any object can be easily cel shaded using the Cel Shading shading model. The cel shading is currently only in the <a href="https://github.com/Treixatek/UnrealEngine/tree/5.0">5.0 branch</a> but will probably be added to future versions. The principles should still remain the same for a while if you want to implement this yourself by reading my article. If not, follow <a href="https://youtu.be/DcEBKnJMxng">this video</a> to clone and install the UE5 source, except clone this repo instead of the Epic Games repo. <strong>As this is a fork of Unreal Engine, the repo is private and you need to join the epic games organization to gain access, follow these steps <a href="https://www.unrealengine.com/en-US/ue-on-github?sessionInvalidated=true">here</a></strong></p>
 <div align="center">
-	<a href="https://github.com/Treixatek/UnrealEngine"><strong>Go to UE5 fork »</strong></a>
+	<a href="https://github.com/ashtonland/UnrealEngine"><strong>Go to UE5 fork »</strong></a>
 </div>
 </br>
 
